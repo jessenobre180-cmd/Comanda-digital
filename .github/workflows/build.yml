@@ -19,6 +19,7 @@ jobs:
       - name: Instalar dependências e sincronizar Capacitor
         run: |
           npm install --legacy-peer-deps
+          npm install @capacitor/core @capacitor/cli @capacitor/android --legacy-peer-deps
           npm run build
           npx cap sync android
       - name: Dar permissão ao Gradle
