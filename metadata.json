@@ -1,0 +1,6 @@
+{
+  "name": "Lanche e Espetinho da Irmã Jéssica - Comanda Digital",
+  "description": "Aplicativo de comanda digital para restaurante, lanchonete e espetinho com gestão de mesas, pedidos, impressão térmica e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

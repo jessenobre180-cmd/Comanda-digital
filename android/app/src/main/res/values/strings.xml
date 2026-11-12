@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Comanda Irmã Jéssica</string>
+    <string name="title_activity_main">Comanda Irmã Jéssica</string>
+    <string name="package_name">com.irmajessica.comanda</string>
+    <string name="custom_url_scheme">com.irmajessica.comanda</string>
+</resources>
